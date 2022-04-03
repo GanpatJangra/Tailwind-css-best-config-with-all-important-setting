@@ -1,0 +1,1 @@
+# Tailwind-css-best-config-with-all-important-setting
