@@ -1,4 +1,4 @@
-# Tailwind-css-best-config-with-all-important-setting.
+# Tailwind-css-best-config-with-all-important-setting. 
 
 
 # PLease modify config file content according to your project.
